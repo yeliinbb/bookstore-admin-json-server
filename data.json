@@ -1,202 +1,204 @@
-[
-  {
-    "id": 1,
-    "title": "The Great Gatsby",
-    "author": "F. Scott Fitzgerald",
-    "quantity": 5,
-    "description": "A story about the mysterious Jay Gatsby and his unrequited love for Daisy Buchanan.",
-    "image": "https://picsum.photos/seed/book1/200/300"
-  },
-  {
-    "id": 2,
-    "title": "1984",
-    "author": "George Orwell",
-    "quantity": 8,
-    "description": "A dystopian novel that explores the dangers of totalitarianism and extreme political ideology.",
-    "image": "https://picsum.photos/seed/book2/200/300"
-  },
-  {
-    "id": 3,
-    "title": "To Kill a Mockingbird",
-    "author": "Harper Lee",
-    "quantity": 10,
-    "description": "A profound tale of racial injustice in the Deep South during the 1930s, as seen through the eyes of young Scout Finch.",
-    "image": "https://picsum.photos/seed/book3/200/300"
-  },
-  {
-    "id": 4,
-    "title": "Pride and Prejudice",
-    "author": "Jane Austen",
-    "quantity": 7,
-    "description": "A classic romantic comedy that deals with issues of manners, marriage, and morality in early 19th century England.",
-    "image": "https://picsum.photos/seed/book4/200/300"
-  },
-  {
-    "id": 5,
-    "title": "The Catcher in the Rye",
-    "author": "J.D. Salinger",
-    "quantity": 12,
-    "description": "The story of Holden Caulfield, a teenager navigating the challenges of growing up in 1950s New York.",
-    "image": "https://picsum.photos/seed/book5/200/300"
-  },
-  {
-    "id": 6,
-    "title": "The Hobbit",
-    "author": "J.R.R. Tolkien",
-    "quantity": 6,
-    "description": "A fantasy tale of Bilbo Baggins' unexpected journey to win a share of a treasure guarded by a dragon.",
-    "image": "https://picsum.photos/seed/book6/200/300"
-  },
-  {
-    "id": 7,
-    "title": "Moby-Dick",
-    "author": "Herman Melville",
-    "quantity": 4,
-    "description": "An epic tale of Captain Ahab's obsessive quest to hunt the great white whale, Moby Dick.",
-    "image": "https://picsum.photos/seed/book7/200/300"
-  },
-  {
-    "id": 8,
-    "title": "War and Peace",
-    "author": "Leo Tolstoy",
-    "quantity": 3,
-    "description": "A sweeping narrative about Russian society during the Napoleonic Wars, blending history, philosophy, and fiction.",
-    "image": "https://picsum.photos/seed/book8/200/300"
-  },
-  {
-    "id": 9,
-    "title": "The Odyssey",
-    "author": "Homer",
-    "quantity": 8,
-    "description": "An ancient Greek epic poem that follows Odysseus' perilous journey home after the Trojan War.",
-    "image": "https://picsum.photos/seed/book9/200/300"
-  },
-  {
-    "id": 10,
-    "title": "Crime and Punishment",
-    "author": "Fyodor Dostoevsky",
-    "quantity": 9,
-    "description": "A philosophical drama about a young man who commits a murder and grapples with guilt and redemption.",
-    "image": "https://picsum.photos/seed/book10/200/300"
-  },
-  {
-    "id": 11,
-    "title": "Brave New World",
-    "author": "Aldous Huxley",
-    "quantity": 11,
-    "description": "A dystopian vision of a technologically advanced future society where happiness is enforced through artificial means.",
-    "image": "https://picsum.photos/seed/book11/200/300"
-  },
-  {
-    "id": 12,
-    "title": "Anna Karenina",
-    "author": "Leo Tolstoy",
-    "quantity": 5,
-    "description": "A tragic tale of love, infidelity, and societal pressure in 19th century Russia.",
-    "image": "https://picsum.photos/seed/book12/200/300"
-  },
-  {
-    "id": 13,
-    "title": "The Brothers Karamazov",
-    "author": "Fyodor Dostoevsky",
-    "quantity": 7,
-    "description": "A philosophical novel exploring faith, doubt, and morality through the lives of three brothers.",
-    "image": "https://picsum.photos/seed/book13/200/300"
-  },
-  {
-    "id": 14,
-    "title": "The Divine Comedy",
-    "author": "Dante Alighieri",
-    "quantity": 3,
-    "description": "An allegorical journey through Hell, Purgatory, and Paradise, guided by the Roman poet Virgil.",
-    "image": "https://picsum.photos/seed/book14/200/300"
-  },
-  {
-    "id": 15,
-    "title": "The Alchemist",
-    "author": "Paulo Coelho",
-    "quantity": 14,
-    "description": "A symbolic story about a shepherd boy's journey to fulfill his personal legend.",
-    "image": "https://picsum.photos/seed/book15/200/300"
-  },
-  {
-    "id": 16,
-    "title": "Frankenstein",
-    "author": "Mary Shelley",
-    "quantity": 10,
-    "description": "A Gothic novel about a scientist's hubristic attempt to create life and its unintended consequences.",
-    "image": "https://picsum.photos/seed/book16/200/300"
-  },
-  {
-    "id": 17,
-    "title": "Dracula",
-    "author": "Bram Stoker",
-    "quantity": 6,
-    "description": "A horror novel about Count Dracula's attempt to move from Transylvania to England to spread his undead curse.",
-    "image": "https://picsum.photos/seed/book17/200/300"
-  },
-  {
-    "id": 18,
-    "title": "Les Misérables",
-    "author": "Victor Hugo",
-    "quantity": 4,
-    "description": "A sweeping story of justice, redemption, and love set in revolutionary France.",
-    "image": "https://picsum.photos/seed/book18/200/300"
-  },
-  {
-    "id": 19,
-    "title": "One Hundred Years of Solitude",
-    "author": "Gabriel Garcia Marquez",
-    "quantity": 12,
-    "description": "A multi-generational tale of the Buendía family in the fictional town of Macondo.",
-    "image": "https://picsum.photos/seed/book19/200/300"
-  },
-  {
-    "id": 20,
-    "title": "The Picture of Dorian Gray",
-    "author": "Oscar Wilde",
-    "quantity": 8,
-    "description": "A Gothic tale of vanity, hedonism, and moral corruption centered on a portrait that bears the sins of its subject.",
-    "image": "https://picsum.photos/seed/book20/200/300"
-  },
-  {
-    "id": 21,
-    "title": "Jane Eyre",
-    "author": "Charlotte Brontë",
-    "quantity": 6,
-    "description": "An orphaned girl's journey through hardship, love, and finding her place in society.",
-    "image": "https://picsum.photos/seed/book21/200/300"
-  },
-  {
-    "id": 22,
-    "title": "Wuthering Heights",
-    "author": "Emily Brontë",
-    "quantity": 7,
-    "description": "A haunting tale of passion and revenge set on the Yorkshire moors.",
-    "image": "https://picsum.photos/seed/book22/200/300"
-  },
-  {
-    "id": 23,
-    "title": "Great Expectations",
-    "author": "Charles Dickens",
-    "quantity": 10,
-    "description": "The story of Pip, an orphan, and his journey through adversity, ambition, and self-discovery.",
-    "image": "https://picsum.photos/seed/book23/200/300"
-  },
-  {
-    "id": 24,
-    "title": "The Scarlet Letter",
-    "author": "Nathaniel Hawthorne",
-    "quantity": 4,
-    "description": "A powerful tale of sin, guilt, and redemption set in Puritan New England.",
-    "image": "https://picsum.photos/seed/book24/200/300"
-  },
-  {
-    "id": 25,
-    "title": "Mansfield Park",
-    "author": "Jane Austen",
-    "quantity": 8,
-    "description": "A story of morality, class, and love as seen through the perspective of Fanny Price.",
-    "image": "https://picsum.photos/seed/book25/200/300"
-  }
-]
+{
+  "books": [
+    {
+      "id": 1,
+      "title": "The Great Gatsby",
+      "author": "F. Scott Fitzgerald",
+      "quantity": 5,
+      "description": "A story about the mysterious Jay Gatsby and his unrequited love for Daisy Buchanan.",
+      "image": "https://picsum.photos/seed/book1/200/300"
+    },
+    {
+      "id": 2,
+      "title": "1984",
+      "author": "George Orwell",
+      "quantity": 8,
+      "description": "A dystopian novel that explores the dangers of totalitarianism and extreme political ideology.",
+      "image": "https://picsum.photos/seed/book2/200/300"
+    },
+    {
+      "id": 3,
+      "title": "To Kill a Mockingbird",
+      "author": "Harper Lee",
+      "quantity": 10,
+      "description": "A profound tale of racial injustice in the Deep South during the 1930s, as seen through the eyes of young Scout Finch.",
+      "image": "https://picsum.photos/seed/book3/200/300"
+    },
+    {
+      "id": 4,
+      "title": "Pride and Prejudice",
+      "author": "Jane Austen",
+      "quantity": 7,
+      "description": "A classic romantic comedy that deals with issues of manners, marriage, and morality in early 19th century England.",
+      "image": "https://picsum.photos/seed/book4/200/300"
+    },
+    {
+      "id": 5,
+      "title": "The Catcher in the Rye",
+      "author": "J.D. Salinger",
+      "quantity": 12,
+      "description": "The story of Holden Caulfield, a teenager navigating the challenges of growing up in 1950s New York.",
+      "image": "https://picsum.photos/seed/book5/200/300"
+    },
+    {
+      "id": 6,
+      "title": "The Hobbit",
+      "author": "J.R.R. Tolkien",
+      "quantity": 6,
+      "description": "A fantasy tale of Bilbo Baggins' unexpected journey to win a share of a treasure guarded by a dragon.",
+      "image": "https://picsum.photos/seed/book6/200/300"
+    },
+    {
+      "id": 7,
+      "title": "Moby-Dick",
+      "author": "Herman Melville",
+      "quantity": 4,
+      "description": "An epic tale of Captain Ahab's obsessive quest to hunt the great white whale, Moby Dick.",
+      "image": "https://picsum.photos/seed/book7/200/300"
+    },
+    {
+      "id": 8,
+      "title": "War and Peace",
+      "author": "Leo Tolstoy",
+      "quantity": 3,
+      "description": "A sweeping narrative about Russian society during the Napoleonic Wars, blending history, philosophy, and fiction.",
+      "image": "https://picsum.photos/seed/book8/200/300"
+    },
+    {
+      "id": 9,
+      "title": "The Odyssey",
+      "author": "Homer",
+      "quantity": 8,
+      "description": "An ancient Greek epic poem that follows Odysseus' perilous journey home after the Trojan War.",
+      "image": "https://picsum.photos/seed/book9/200/300"
+    },
+    {
+      "id": 10,
+      "title": "Crime and Punishment",
+      "author": "Fyodor Dostoevsky",
+      "quantity": 9,
+      "description": "A philosophical drama about a young man who commits a murder and grapples with guilt and redemption.",
+      "image": "https://picsum.photos/seed/book10/200/300"
+    },
+    {
+      "id": 11,
+      "title": "Brave New World",
+      "author": "Aldous Huxley",
+      "quantity": 11,
+      "description": "A dystopian vision of a technologically advanced future society where happiness is enforced through artificial means.",
+      "image": "https://picsum.photos/seed/book11/200/300"
+    },
+    {
+      "id": 12,
+      "title": "Anna Karenina",
+      "author": "Leo Tolstoy",
+      "quantity": 5,
+      "description": "A tragic tale of love, infidelity, and societal pressure in 19th century Russia.",
+      "image": "https://picsum.photos/seed/book12/200/300"
+    },
+    {
+      "id": 13,
+      "title": "The Brothers Karamazov",
+      "author": "Fyodor Dostoevsky",
+      "quantity": 7,
+      "description": "A philosophical novel exploring faith, doubt, and morality through the lives of three brothers.",
+      "image": "https://picsum.photos/seed/book13/200/300"
+    },
+    {
+      "id": 14,
+      "title": "The Divine Comedy",
+      "author": "Dante Alighieri",
+      "quantity": 3,
+      "description": "An allegorical journey through Hell, Purgatory, and Paradise, guided by the Roman poet Virgil.",
+      "image": "https://picsum.photos/seed/book14/200/300"
+    },
+    {
+      "id": 15,
+      "title": "The Alchemist",
+      "author": "Paulo Coelho",
+      "quantity": 14,
+      "description": "A symbolic story about a shepherd boy's journey to fulfill his personal legend.",
+      "image": "https://picsum.photos/seed/book15/200/300"
+    },
+    {
+      "id": 16,
+      "title": "Frankenstein",
+      "author": "Mary Shelley",
+      "quantity": 10,
+      "description": "A Gothic novel about a scientist's hubristic attempt to create life and its unintended consequences.",
+      "image": "https://picsum.photos/seed/book16/200/300"
+    },
+    {
+      "id": 17,
+      "title": "Dracula",
+      "author": "Bram Stoker",
+      "quantity": 6,
+      "description": "A horror novel about Count Dracula's attempt to move from Transylvania to England to spread his undead curse.",
+      "image": "https://picsum.photos/seed/book17/200/300"
+    },
+    {
+      "id": 18,
+      "title": "Les Misérables",
+      "author": "Victor Hugo",
+      "quantity": 4,
+      "description": "A sweeping story of justice, redemption, and love set in revolutionary France.",
+      "image": "https://picsum.photos/seed/book18/200/300"
+    },
+    {
+      "id": 19,
+      "title": "One Hundred Years of Solitude",
+      "author": "Gabriel Garcia Marquez",
+      "quantity": 12,
+      "description": "A multi-generational tale of the Buendía family in the fictional town of Macondo.",
+      "image": "https://picsum.photos/seed/book19/200/300"
+    },
+    {
+      "id": 20,
+      "title": "The Picture of Dorian Gray",
+      "author": "Oscar Wilde",
+      "quantity": 8,
+      "description": "A Gothic tale of vanity, hedonism, and moral corruption centered on a portrait that bears the sins of its subject.",
+      "image": "https://picsum.photos/seed/book20/200/300"
+    },
+    {
+      "id": 21,
+      "title": "Jane Eyre",
+      "author": "Charlotte Brontë",
+      "quantity": 6,
+      "description": "An orphaned girl's journey through hardship, love, and finding her place in society.",
+      "image": "https://picsum.photos/seed/book21/200/300"
+    },
+    {
+      "id": 22,
+      "title": "Wuthering Heights",
+      "author": "Emily Brontë",
+      "quantity": 7,
+      "description": "A haunting tale of passion and revenge set on the Yorkshire moors.",
+      "image": "https://picsum.photos/seed/book22/200/300"
+    },
+    {
+      "id": 23,
+      "title": "Great Expectations",
+      "author": "Charles Dickens",
+      "quantity": 10,
+      "description": "The story of Pip, an orphan, and his journey through adversity, ambition, and self-discovery.",
+      "image": "https://picsum.photos/seed/book23/200/300"
+    },
+    {
+      "id": 24,
+      "title": "The Scarlet Letter",
+      "author": "Nathaniel Hawthorne",
+      "quantity": 4,
+      "description": "A powerful tale of sin, guilt, and redemption set in Puritan New England.",
+      "image": "https://picsum.photos/seed/book24/200/300"
+    },
+    {
+      "id": 25,
+      "title": "Mansfield Park",
+      "author": "Jane Austen",
+      "quantity": 8,
+      "description": "A story of morality, class, and love as seen through the perspective of Fanny Price.",
+      "image": "https://picsum.photos/seed/book25/200/300"
+    }
+  ]
+}
